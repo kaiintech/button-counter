@@ -30,7 +30,6 @@ body {
   transition: transform 0.2s;
 }
 
-
 .button-row {
   display: flex;
   gap: 20px;
@@ -54,3 +53,4 @@ body {
   transform: scale(1.05);
   box-shadow: 0 0 10px #00f0ff, 0 0 20px #00f0ff;
 }
+
