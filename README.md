@@ -5,7 +5,7 @@ A simple web project with a counter that increments and resets, featuring a neon
 ## Features
 
 - Click the **Increase** button to increase the count.
-- - Click the **Decrease** button to decrease the count.
+- Click the **Decrease** button to decrease the count.
 - Click the **Reset** button to reset the count.
 - Neon square buttons with hover glow effect.
 - Responsive and simple layout.
